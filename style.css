@@ -1,0 +1,29 @@
+h1{
+    margin: 10px;
+    color: #66B821;
+}
+h5{
+    margin: 0;
+}
+ul{
+    width: 50%;
+    margin: 0 auto;
+}
+li{
+    margin: 5px;
+    height: 283px;
+    width: 825px;
+    list-style: none;
+    background: linear-gradient(to bottom,  rgba(237,219,177,1) 0%,rgba(255,255,255,1) 32%);
+    border: 1px solid #5A8E2F;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    margin-top: 40px;
+    width: 450px;
+}
+img{
+    height: 200px;
+    width: 150px;
+}
